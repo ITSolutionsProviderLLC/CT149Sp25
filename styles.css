@@ -1,3 +1,9 @@
 .heading {
   border: 5px solid black;
 }
+p {
+  color: blue;
+}
+h {
+  color: red;
+}
